@@ -1,0 +1,26 @@
+	body { font-family: sans-serif;  
+			padding-left: 20em;
+			padding-top: 2em;
+
+	}
+
+	b.peter {
+		
+		color:purple;
+	}
+
+	b.dana {
+	
+		color:blue;
+	}
+
+	b.ray{
+	
+		color:red;
+	}
+
+	b.mayor{
+
+		color:maroon;
+
+	}
