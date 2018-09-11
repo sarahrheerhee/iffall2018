@@ -1,0 +1,15 @@
+body { font-family: sans-serif;  
+			padding-top: 5em;
+			text-align: center;
+			background-color: black;
+			color:white;
+			padding-bottom: 20em;
+
+	}
+
+p.blackbird{font-size: 100pt;}
+
+p.heading{color:cyan;
+}
+	
+p.beatles{color: magenta;}
