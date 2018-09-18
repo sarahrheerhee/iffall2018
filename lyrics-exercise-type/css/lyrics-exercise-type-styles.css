@@ -1,0 +1,54 @@
+body { font-weight: lighter;
+	   font-family: 'Raleway', sans-serif;
+	   padding-left: 5em;
+	   padding-top:3em;
+	   padding-bottom: 20em;
+		background-color: rgb(44, 54, 84);
+		color:rgb(255, 124, 63);
+		}
+
+p #slash{color:rgb(255, 175, 15);
+		font-weight: normal;}
+p.heading{font-weight: bold;
+	text-transform: uppercase;
+	margin-bottom:0pt;
+	color:rgb(255, 175, 15);
+	font-size:20pt;
+}
+
+p.blackbird{font-size: 80pt;
+			margin-bottom:0pt;
+			margin-top: 0pt;
+			
+			border-bottom:70px solid rgb(255, 175, 15);
+
+
+
+		}
+p.beatles{font-size: 50pt;
+		margin-bottom:0pt;
+		margin-top: 1.5em;
+		}
+
+p.chorus{margin-top: -1em;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size:20pt;
+	color:rgb(255, 175, 15);
+
+
+}
+
+p.mainverse{font-weight: normal;}
+
+p.choruss{font-style: italic;
+		font-weight: lighter;}
+
+p.lastchorusheading{margin-top: 3em;
+					font-weight: bold;
+					color:rgb(255, 175, 15);
+					font-size:20pt;
+				}
+			
+p.lastchorus{font-style: italic;
+			font-weight: normal;}
