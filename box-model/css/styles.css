@@ -1,0 +1,148 @@
+body { font-weight: regular;
+	   padding:0;
+	   margin:0;
+	   font-family: 'Archivo Narrow', sans-serif;
+	   }
+
+header { 
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/189/110/non_2x/diamond-shape-golden-pattern-vector-background.jpg");
+	height:315px;
+	background-position: top center;
+	margin-top:0px;}
+
+header h1 {
+	font-size: 80px;
+	margin-top: 162.5px;
+	margin-bottom:15px;
+}
+
+header h2 {
+	font-size: 30px;
+	margin-top:0;
+}
+
+#firstsection h2 {
+	font-size: 40px;
+	font-weight: 700;
+	text-align: center;
+	padding-top: 10px;
+}
+
+#firstsection {
+	margin-top: 0px;
+	background-color: rgb(44, 60, 84);
+	height:680px;
+	padding-left: 340px;
+	padding-right: 340px;}
+
+#firstsection.firstbox {
+	
+	width: 960px;
+	padding-top: 0px;
+	padding-bottom: 40px;
+	margin: 0 auto;
+	height:300px;
+}
+
+#secondsection h2{
+	font-size: 40px;
+	font-weight: 700;
+	text-align: center;
+	padding-top: 10px;
+}
+
+#firstsection p {	
+	font-size: 18px;
+	line-height: 25px;
+}
+#firstsection .firstbox {
+	
+	display: inline;
+}
+
+#firstsection .firstbox img{
+	float: right;
+	height: 300px;
+	width: 400px;
+
+}
+#img1 {
+	background-image: url("https://wallpapercave.com/wp/Eu0TkxI.jpg");
+	float: left;
+	margin-top: 5px;
+}
+
+#img2 {
+	background-image: url("https://wallpapercave.com/wp/Eu0TkxI.jpg");	
+	float: left;
+	margin-left: 280px;
+	margin-top: -120px;
+}
+
+#img3 {
+	background-image: url("https://wallpapercave.com/wp/Eu0TkxI.jpg");	
+	float: left;
+	margin-top: -75px;
+	}
+
+#img4 {
+	background-image: url("https://wallpapercave.com/wp/Eu0TkxI.jpg");	
+	float: left;
+	margin-left: 480px;
+	margin-top: -200px;
+	}
+
+#img5 {
+	background-image: url("https://wallpapercave.com/wp/Eu0TkxI.jpg");	
+	float: left;
+	margin-top: -150px;
+	}
+
+#img6 {
+	background-image: url("https://wallpapercave.com/wp/Eu0TkxI.jpg");	
+	float: left;
+	margin-left: 480px;
+	margin-top: -280px;
+	}
+
+#secondsection p {
+	font-size: 18px;
+	line-height: 25px;
+}
+
+#secondsection {
+	margin: auto;
+	background-color: rgb(255, 175, 15);
+	height: 690px;
+}
+
+#secondsection .secondbox {
+	width: 960px;
+	margin: auto;
+	padding-top: 5px;
+	padding-bottom: 68px;
+}
+
+
+#secondsection p {
+	text-align: left;
+	display: inline-block;
+	padding-left: 10px;
+	/*vertical-align: top;*/
+	padding-top: 5px;
+	padding-right: 62px;
+}
+
+#secondsection .image {
+	display: inline-block;
+	background-size: cover;
+	background-position: bottom;
+	height: 150px;
+	width: 200px;
+	
+}
+
+
+
+
+
