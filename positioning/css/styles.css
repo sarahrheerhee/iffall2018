@@ -1,0 +1,46 @@
+aside.right{
+	float:right;
+}
+
+section.lowerright{
+	position:relative;
+}
+
+	aside.box{
+		position:absolute;
+		top:180px;
+
+	}
+
+aside.fixed{
+	position:fixed;
+	background-color: green;
+	width:240px;
+	height:165px;
+	top:0;
+	right:0;
+	z-index: 200;
+}
+
+div.paragraphs{
+	position: relative;
+	}
+
+	aside.top{
+		background-color: red;
+		position:absolute;
+		z-index: 100;
+		left:50%;
+		transform:translateX(-50%);
+			
+	}
+
+	aside.bottom{
+		background-color: black;
+		position:absolute;
+		margin:auto;
+		left:40%;
+	 	transform:translateY(10%);
+}
+
+	}
