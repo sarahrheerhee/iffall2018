@@ -1,0 +1,76 @@
+body {
+	/*background-color: #FFFACE;*/
+	font-family: 'Nunito Sans', sans-serif;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+	padding-bottom: 70px;
+	}
+
+p {
+	margin-bottom: -10px;
+	font-size: 15px;
+	}
+
+h1 {
+	color:#D65501;
+	font-size:35px;
+	margin-top: -.5px;
+	text-align: left;
+	}
+
+img {
+	height:15%;
+	width:15%;
+	padding-bottom: 0;
+	padding-left: 10px;
+	padding-right: 34px;
+	}
+
+div.garlicimg{
+	margin-left:20px;
+	}
+
+div.time{
+	float:left;
+	font-size:8px; 
+	color:#87A05A;
+	margin-left: 20px;
+}
+
+div.time_labels{
+	color:#87A05A;
+	float:left;
+
+}
+
+hr {
+	display: block;
+	margin-right:0px;
+	margin-left:0px;
+	margin-bottom:-5px; 
+	margin-top: 10px;
+    height: 2px;
+    width:280px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    padding: 0;
+    border-color: #87A05A;
+}
+
+p.title {
+	font-size: 20px;
+	color:#D65501;
+}
+.measurements {
+	color:#87A05A;
+
+}
+
+img#breadphoto {
+	margin-top: -10px;
+	height:60%;
+	width:60%;
+	margin-left: -10px;
+}
+
