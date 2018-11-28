@@ -1,0 +1,70 @@
+body {
+	background-color: #00b6a8;
+	font-family: sans-serif;
+}
+
+div.JuliaChild {
+	font-family: 'EB Garamond', serif;
+	color:#fffada;
+	font-size: 21pt;
+	padding-left: 10pt;
+	padding-top: 5pt;
+	}
+
+div.navbar {
+	display: inline-block;
+	font-family: sans-serif;
+	font-size: 11pt;
+	color:#fffada;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+}
+
+p{
+	float: left;
+	padding-left: 35pt;
+	padding-right: 105pt;
+}
+
+p#home{
+	padding-left: 110pt
+}
+p:hover{
+	color:#ad3033;
+}
+
+img#jchome {
+	float:left;
+	width:25%;
+	height: 25%;
+	padding-left: 255pt;
+	padding-top: 30pt;
+
+}
+
+div.text{
+
+	font-family: 'EB Garamond', serif;
+	font-size: 13pt;
+	color:#fffada;
+	padding-right: 225pt;
+	padding-left: 600pt;
+	line-height: 22pt;
+	padding-top: 30pt;
+
+
+}
+
+
+a{
+	color: #fffada;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
