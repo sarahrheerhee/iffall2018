@@ -31,46 +31,42 @@ div.navbar {
 
 p{
 	float: left;
-	margin-left: 35pt;
-	margin-right: 105pt;
+	padding-left: 35pt;
+	padding-right: 105pt;
 }
 
 p#home{
-	margin-left: 110pt
+	padding-left: 110pt
 }
 p:hover{
 	font-weight: bold;
 }
 
-img#jchome {
+img#legacy {
 	float:left;
 	width:25%;
-	height: 40%;
-	margin-left: 300pt;
-	margin-top: 30pt;
+	height: 25%;
+	padding-left: 255pt;
+	padding-top: 30pt;
 
 }
 
 div.text{
-
 	font-family: 'EB Garamond', serif;
 	font-size: 13pt;
 	color:#fffada;
-	margin-right: 300pt;
-	margin-left: 620pt;
+	padding-right: 225pt;
+	padding-left: 600pt;
 	line-height: 22pt;
 	padding-top: 30pt;
+
+
 }
+
 
 a{
 	color: #f64e43;
 	text-decoration: none;
 }
-
-
-
-
-
-
 
 

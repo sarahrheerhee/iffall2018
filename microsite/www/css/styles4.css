@@ -5,19 +5,28 @@ body {
 
 div.JuliaChild {
 	font-family: 'EB Garamond', serif;
-	color:#fffada;
+	color:#f64e43;
 	font-size: 21pt;
 	padding-left: 10pt;
 	padding-top: 5pt;
+	background-color: #fffada;
+	margin-left: -6pt;
+	margin-right: -6pt;
+	margin-top: -7pt;
+
 	}
 
 div.navbar {
 	display: inline-block;
 	font-family: sans-serif;
 	font-size: 11pt;
-	color:#fffada;
+	color:#f64e43;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
+	background-color: #fffada;
+	margin-left: -10pt;
+	margin-right: -20pt;
+	width: 4000pt;
 }
 
 p{
@@ -30,7 +39,7 @@ p#home{
 	padding-left: 110pt
 }
 p:hover{
-	color:#ad3033;
+	font-weight: bold;
 }
 
 img#legacy {
@@ -56,6 +65,7 @@ div.text{
 
 
 a{
-	color: #fffada;
+	color: #f64e43;
 	text-decoration: none;
 }
+
