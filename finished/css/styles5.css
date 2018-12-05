@@ -1,0 +1,79 @@
+body {
+	background-color: #00b6a8;
+	font-family: sans-serif;
+}
+
+div.JuliaChild {
+	font-family: 'EB Garamond', serif;
+	color:#f64e43;
+	font-size: 21pt;
+	padding-left: 10pt;
+	padding-top: 5pt;
+	background-color: #fffada;
+	margin-left: -6pt;
+	margin-right: -6pt;
+	margin-top: -7pt;
+
+	}
+
+div.navbar {
+	display: inline-block;
+	font-family: sans-serif;
+	font-size: 11pt;
+	color:#f64e43;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+	background-color: #fffada;
+	margin-left: -10pt;
+	margin-right: -20pt;
+	width: 4000pt;
+}
+
+p{
+	float: left;
+	padding-left: 35pt;
+	padding-right: 105pt;
+}
+
+p#home{
+	padding-left: 110pt
+}
+p:hover{
+	font-weight: bold;
+}
+
+img#awards {
+	float:left;
+	width:25%;
+	height: 25%;
+	padding-left: 255pt;
+	padding-top: 50pt;
+
+}
+
+div.text{
+	font-family: 'EB Garamond', serif;
+	font-size: 13pt;
+	color:#fffada;
+	padding-right: 225pt;
+	padding-left: 600pt;
+	line-height: 22pt;
+	padding-top: 30pt;
+}
+
+div.text2 {
+	font-family: 'EB Garamond', serif;
+	font-size: 13pt;
+	color:#fffada;
+	padding-right: 225pt;
+	padding-left: 255pt;
+	line-height: 22pt;
+	
+}
+
+
+a{
+	color: #f64e43;
+	text-decoration: none;
+}
+
